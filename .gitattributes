@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Tratar arquivos de texto automaticamente
+* text=auto
+
+# Garantir que vídeos e imagens sejam tratados como binários (evita corrupção)
+*.mp4 binary
+*.jpg binary
+*.png binary
+*.webp binary
+
+# Definir linguagens para o diff do GitHub
+*.html diff=html
+*.css diff=css
+*.js diff=javascript
