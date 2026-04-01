@@ -2,11 +2,8 @@
 
 **Portfólio cinematográfico com pipeline automatizado (DevOps Ready)**
 
- <p align="center">
-  <img src="assets/img/perfect.ads.jpg" alt="Preview do Site Perfect Ads" width="100%" style="border-radius: 10px; border: 1px solid #333;">
-</p>
+<img width="1350" height="598" alt="image" src="https://github.com/user-attachments/assets/f773a6db-38dc-47b9-8a36-45400c6c3eaa" />
 
----
 
 ## 🚀 Sobre o Projeto
 
